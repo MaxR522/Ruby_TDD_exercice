@@ -54,7 +54,7 @@ je vous invite donc a entrer dans votre terminale <ruby Shakcount.rb > pour voir
 je vous invite donc a entrer dans votre terminale <ruby        .rb > pour voir combien de gros mots y a-t il dans l'oeuvre de Shakeaspeare.
 
 ## Auteur
---RANDRIANOARISOA Mario
+--RANDRIANOMEARISOA Mario
 --MIRINDRA Solofoniaina
 --RAJERISON Jules Raharimalala
 --RAZAFIMAHATRATRA Hajatiana Patrick
